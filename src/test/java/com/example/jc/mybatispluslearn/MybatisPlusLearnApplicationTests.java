@@ -10,6 +10,7 @@ class MybatisPlusLearnApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
