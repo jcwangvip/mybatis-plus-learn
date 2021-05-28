@@ -20,6 +20,11 @@ class ShopMapperTest {
     @Autowired
     private ShopMapper shopMapper;
 
+    @Test
+    void delete() {
+        // shopMapper.deleteById(1L);
+    }
+
     /**
      * 模拟并发场景
      */
